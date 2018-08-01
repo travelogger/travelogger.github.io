@@ -52,6 +52,11 @@ p {
 		font-size: 14px;
 	}
 
+	h1 {
+		letter-spacing: .75rem;
+		font-size: 60px;
+	}
+
 }
 
 /* HEADER STYLES */
@@ -91,11 +96,6 @@ header nav a {
 
 }
 
-@media (max-width: 500px) {
-	h1 {
-		letter-spacing: .75rem;
-	}
-}
 
 .nav-link{
 	-webkit-transition: color 0.15s ease-in-out;
