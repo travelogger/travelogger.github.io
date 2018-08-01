@@ -52,10 +52,6 @@ p {
 		font-size: 14px;
 	}
 
-	h1 {
-		letter-spacing: .75rem;
-		font-size: 60px;
-	}
 
 }
 
@@ -212,6 +208,7 @@ header nav a {
 	}
 	.hero h1 {
 		font-size: 48px;
+		letter-spacing: .7rem;
 	}
 	.hero h3 {
 		font-size: 24px;
